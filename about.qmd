@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "My pitch"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+General pitch goes here
